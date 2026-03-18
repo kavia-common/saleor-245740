@@ -35,3 +35,4 @@ Pipfile
 # Exported results file
 django-queries-results.html
 !.claude/skills
+.file_activity_report.json
